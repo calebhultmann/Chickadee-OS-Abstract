@@ -1,8 +1,7 @@
 # Chickadee Operating System Abstract
 *A micro Linux-based operating system kernel*
-<!-- insert gif here 
-<img src="readme_assets/chemuGB_demo.gif" width="25%" alt="chemuGB Demo with Kirby's Dream Land 2">
--->
+
+<img src="chickadee_allocexit_demo.gif" width="50%" alt="Chickadee OS process allocexit demo">
 
 ## 💡 Highlights:
  - **Tech used:** C++, Docker
